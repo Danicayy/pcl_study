@@ -1,3 +1,0 @@
-/home/danica/dataload/build/CMakeFiles/rebuild_cache.dir
-/home/danica/dataload/build/CMakeFiles/edit_cache.dir
-/home/danica/dataload/build/CMakeFiles/dataload.dir
